@@ -1,5 +1,8 @@
 package com.codecool.threads.basics.exercise1;
 
+import com.codecool.threads.exercise1.SelfPromote;
+import com.codecool.threads.exercise1.ThreadSelfPromotion;
+
 import java.util.ArrayList;
 
 import static java.lang.Thread.currentThread;
